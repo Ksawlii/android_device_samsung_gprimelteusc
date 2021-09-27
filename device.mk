@@ -1,16 +1,16 @@
 #Inherit from vendor
-$(call inherit-product, vendor/samsung/gprimeltetfnvzw/gprimeltetfnvzw-vendor.mk)
+$(call inherit-product, vendor/samsung/gprimelteusc/gprimelteusc-vendor.mk)
 
 # Inherit from common
 $(call inherit-product, device/samsung/gprimelte-common/device-common.mk)
 
-LOCAL_PATH := device/samsung/gprimeltetfnvzw
+LOCAL_PATH := device/samsung/gprimelteusc
 
 # System properties
 -include $(LOCAL_PATH)/system_prop.mk
 
 # Common overlay
-DEVICE_PACKAGE_OVERLAYS += device/samsung/gprimeltetfnvzw/overlay
+DEVICE_PACKAGE_OVERLAYS += device/samsung/gprimelteusc/overlay
 
 # NFC
 NXP_CHIP_TYPE := 1

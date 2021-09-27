@@ -1,8 +1,8 @@
-LOCAL_PATH := device/samsung/gprimeltetfnvzw
+LOCAL_PATH := device/samsung/gprimelteusc
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/lineage_gprimeltetfnvzw.mk
+	$(LOCAL_DIR)/lineage_gprimelteusc.mk
 	
 COMMON_LUNCH_CHOICES := \
-	lineage_gprimeltetfnvzw-eng \
-	lineage_gprimeltetfnvzw-userdebug \
-	lineage_gprimeltetfnvzw-user
+	lineage_gprimelteusc-eng \
+	lineage_gprimelteusc-userdebug \
+	lineage_gprimelteusc-user

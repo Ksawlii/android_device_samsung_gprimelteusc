@@ -1,4 +1,4 @@
-ifeq ($(TARGET_DEVICE),gprimeltetfnvzw)
+ifeq ($(TARGET_DEVICE),gprimelteusc)
 LOCAL_PATH := $(call my-dir)
 include $(call all-subdir-makefiles,$(LOCAL_PATH))
 include $(call all-makefiles-under,$(LOCAL_PATH))

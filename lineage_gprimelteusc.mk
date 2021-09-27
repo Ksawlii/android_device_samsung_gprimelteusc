@@ -1,13 +1,13 @@
 # Inherit from common
 $(call inherit-product, device/samsung/gprimelte-common/lineage.mk)
 
-$(call inherit-product, device/samsung/gprimeltetfnvzw/device.mk)
+$(call inherit-product, device/samsung/gprimelteusc/device.mk)
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := gprimeltetfnvzw
-PRODUCT_NAME := lineage_gprimeltetfnvzw
+PRODUCT_DEVICE := gprimelteusc
+PRODUCT_NAME := lineage_gprimelteusc
 PRODUCT_BRAND := samsung
-PRODUCT_MODEL := SM-S920L
+PRODUCT_MODEL := SM-G530R4
 PRODUCT_MANUFACTURER := samsung
 PRODUCT_CHARACTERISTICS := phone
 

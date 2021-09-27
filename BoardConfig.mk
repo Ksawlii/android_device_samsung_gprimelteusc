@@ -1,10 +1,10 @@
 # Inherit from common
 include device/samsung/gprimelte-common/BoardConfigCommon.mk
 
-LOCAL_PATH := device/samsung/gprimeltetfnvzw
+LOCAL_PATH := device/samsung/gprimelteusc
 
 # Asserts
-TARGET_OTA_ASSERT_DEVICE := gprimeltetfnvzw,samsung_sm_s920l,s920l
+TARGET_OTA_ASSERT_DEVICE := gprimelteusc,samsung_sm_g530r4,g530r4
 
 # Kernel
 TARGET_KERNEL_VARIANT_CONFIG := msm8916_sec_fortuna_tfn_defconfig

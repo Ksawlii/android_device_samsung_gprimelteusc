@@ -1,6 +1,6 @@
-# android_device_samsung_gprimeltetfnvzw
+# android_device_samsung_gprimelteusc
 
-## Device tree for Samsung Galaxy Grand Prime S920L [gprimeltetfnvzw]
+## Device tree for Samsung Galaxy Grand Prime SM-G530R4 [gprimelteusc]
 
 Basic   | Spec Sheet
 -------:|:-------------------------
