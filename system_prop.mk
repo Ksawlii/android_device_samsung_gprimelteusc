@@ -1,3 +1,5 @@
+PRODUCT_PROPERTY_OVERRIDES += \
+  ro.lineage.version=Ksawlii-LineageOS-17.1-gprimelteusc
 # CABL
 PRODUCT_PROPERTY_OVERRIDES += \
 	ro.qualcomm.cabl=0
